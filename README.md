@@ -28,9 +28,7 @@ Start the server
   npm run start
 ```
 
-## Screenshots
-
-![App Screenshot](https://ibb.co/8bjYq2t)
+## Screenshots![WholeScreen_Screenshot](https://github.com/user-attachments/assets/61536a8e-ff66-486f-9586-4598eb3a00ad)
 
 ## Tech Stack
 
